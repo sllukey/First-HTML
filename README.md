@@ -14,7 +14,6 @@
      <li>Macarrão</li>
      <li>Carne</li>
      <li>Frango</li>
-
     <hr>
     <h2>Lista de tarefas:</h2>
     <ul>
